@@ -12,7 +12,7 @@
             <v-card-actions class="pt-0">
                 <v-spacer></v-spacer>
                 <v-btn text @click="cancel">Cancel</v-btn>
-                <v-btn depressed :color="options.color" @click="agree">Yes</v-btn>
+                <v-btn depressed :color="options.color" @click="agree">Yes11</v-btn>
             </v-card-actions>
         </v-card>
     </v-dialog>
